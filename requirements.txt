@@ -1,2 +1,6 @@
 annoy
 senetencetransformers
+gemnism
+langchain
+langchain-community
+pandas

@@ -7,9 +7,7 @@ This repository demonstrates how to use **Annoy Index** with **Word2Vec** to per
 2. [What is Word2Vec?](#what-is-word2vec)
 3. [How the System Works](#how-the-system-works)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Customization](#customization)
-7. [License](#license)
+
 
 ## What is Annoy Index?
 
@@ -48,6 +46,6 @@ This project integrates Word2Vec for creating word embeddings and Annoy for effi
 To get started, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-repo/annoy-word2vec-search.git
-cd annoy-word2vec-search
+git clone https://github.com/PrudhviChakravarthy/annoy_index
+cd annoy_index
 pip install -r requirements.txt
